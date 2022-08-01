@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The purpose of this project is to create a recipe web application that will be able to search for recipes based on ingredients found in the users refrigerator or home.  The user input the ingredients they found into the application and it returns a recipe derived from a recipe API. If a recipe is not returned because the of the users lack of ingredients, the user receives a list of the remaining ingredients needed with the nearest stores and the cheapest prices.
 ### Features
-Include Features here
+user login
+recipe search
+grocery list
+local store to with products
+price from local store displayed
 ### Technologies
-Include Technologies here
+java
+javascript
+html
+sql
+spring boot
+hibernate
+html
+css
 ### What I'll Have to Learn
-Include what you will need to learn here
+working more on api calls
 ### Project Tracker
-Link to your Trello board here
+will provide this on slack. don't want to publish personal info
